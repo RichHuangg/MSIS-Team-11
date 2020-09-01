@@ -1,3 +1,6 @@
 # MSIS-Team-11
-MSIS
-shirley-msis
+MSIS\
+ecparsle\
+RichHuangg\
+rossjor\
+shirley-msis\
